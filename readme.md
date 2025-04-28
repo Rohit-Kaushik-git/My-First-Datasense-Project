@@ -68,8 +68,13 @@ Conditional Statement
     For example, 
         age = 18
         if age>=18:
+
             print("Adult") #checks if age exceeds or equals 18.
+
         elif age<18 and age>=12:
+
             print("Teenage") #checks if age is less than 18 but above or equals 12.
+
         else:
+        
             print("Child") #if none of the above statement is true
