@@ -1,5 +1,7 @@
 ====================================
+
 My first Project of DataSense
+
 ====================================
 
 - Create Virtual Enviornment
@@ -26,14 +28,21 @@ My first Project of DataSense
 
 - import time module to use the sleep function.
 
+
 =====================================
+
 Project Description
+
 =====================================
 - This project collects user inputs through a questionnaire, analyzes them to determine the user's personality type, and displays a personalized fun personality report based on the inputs.
 
+
 =====================================
+
 Functions used in project
+
 =====================================
+
 1 - **print()**
     - The print function in Python displays the output/desired lines to the user. It’s like telling the computer to write something on the screen.
 
@@ -60,13 +69,19 @@ Functions used in project
 8 - **sleep()**
     - sleep function from the time module, pauses program execution for a specified number of seconds. For example, time.sleep(2) delays the program for 2 seconds before continuing.
 
+
 =====================================
+
 Conditional Statement
+
 =====================================
+
 1 - if/elif/else
     - The if, elif, and else statements in Python control the flow of a program by executing code blocks based on conditions. if checks a condition; elif tests additional conditions if the first fails; else runs if no conditions are true. 
-    For example, 
+    For example,
+
         age = 18
+
         if age>=18:
 
             print("Adult") #checks if age exceeds or equals 18.
@@ -76,5 +91,5 @@ Conditional Statement
             print("Teenage") #checks if age is less than 18 but above or equals 12.
 
         else:
-        
+
             print("Child") #if none of the above statement is true
